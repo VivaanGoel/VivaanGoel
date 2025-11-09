@@ -28,8 +28,8 @@ Currently learning through **CS50x** and exploring how **AI** can make technolog
 
 ## 📂 Featured Projects  
 
-| Project | Description | Tech |
-|:--------|:-------------|:-----|
+| Project | Description |
+|:--------|:-------------|
 | 🎮 [Speller](https://github.com/VivaanGoel/CS50x-Speller) | |
 | 💡[Readability scorer](https://github.com/VivaanGoel/CS50x-Readability)) |  |
 | 🌐 [Image Filter](https://github.com/VivaanGoel/CS50x-Filter) | |
